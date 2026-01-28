@@ -15,5 +15,6 @@
     <ScheduledProgram Name="TankRinse" />
     <ScheduledProgram Name="WashAcid" />
     <ScheduledProgram Name="WashCaustic" />
+    <ScheduledProgram Name="CirculationPump_Backup" />
   </ScheduledPrograms>
 </Task>
