@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Program Name="CirculationPump_Aux" TestEdits="false" MainRoutineName="Main" Disabled="false" UseAsFolder="false">
+<Program Name="CirculationPump_Secondary" TestEdits="false" MainRoutineName="Main" Disabled="false" UseAsFolder="false">
   <CustomProperties>
     <Provider ID="ACM" Ext="Origin_0">
       <OriginHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Maj="1" Min="0" OExt="-1" UExt="1" />
